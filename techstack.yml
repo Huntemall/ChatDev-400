@@ -1,0 +1,450 @@
+repo_name: Huntemall/ChatDev-400
+report_id: 7a542b76a7b2e572366bbef2bafd03fb
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-16T09:56:40+00:00'
+requested_by: Alphamasterliu
+provider: github
+branch: dev
+detected_tools_count: 31
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/Huntemall/ChatDev-400
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400
+  detection_source: Repo Metadata
+- name: Matplotlib
+  description: A plotting library for the Python programming language
+  website_url: http://matplotlib.org
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Charting Libraries
+  image_url: https://img.stackshare.io/service/2993/2DZC4KaA_400x400.jpg
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/WareHouse/ExpenseEase_THUNLP_20230825093604/requirements.txt
+  detection_source: WareHouse/ExpenseEase_THUNLP_20230825093604/requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400
+  detection_source: Repo Metadata
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+- name: OpenCV
+  description: Open Source Computer Vision Library
+  website_url: http://opencv.org/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/1293/opencv-logo-64x64.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/WareHouse/videoplayer_THUNLP_20230824233151/requirements.txt
+  detection_source: WareHouse/videoplayer_THUNLP_20230824233151/requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+- name: Pillow
+  description: Python Imaging Library
+  website_url: https://python-pillow.github.io/
+  open_source: true
+  hosted_saas: false
+  category: Assets and Media
+  sub_category: Image Processing and Management
+  image_url: https://img.stackshare.io/service/2375/default_1f67b0ca7416a9f52beb655f90b5602d5ef74b75.jpg
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/WareHouse/Gomoku_THUNLP_20230625201030/requirements.txt
+  detection_source: WareHouse/Gomoku_THUNLP_20230625201030/requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+- name: NumPy
+  description: Fundamental package for scientific computing with Python
+  website_url: http://www.numpy.org/
+  version: 1.19.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Data Science Tools
+  image_url: https://img.stackshare.io/service/2179/default_332f874a2edb2686f578aa6389313efcea1eec41.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/WareHouse/MoneyCtrl_THUNLP_20230825093546/requirements.txt
+  detection_source: WareHouse/MoneyCtrl_THUNLP_20230825093546/requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+- name: OpenAI
+  description: Creating safe AGI that benefits all
+  website_url: https://openai.com/
+  version: 0.27.8
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Models
+  image_url: https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/requirements.txt
+  detection_source: WareHouse/FAIR_ENOUGH_ModelBest1024_20231026000126/requirements.txt
+  last_updated_by: whh8654
+  last_updated_on: 2023-10-26 07:28:40.000000000 Z
+- name: pygame
+  description: Open Source python programming language library for making multimedia
+    applications
+  website_url: https://www.pygame.org/news
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Desktop Development
+  image_url: https://img.stackshare.io/service/6512/default_1e1ae07154b9f359c410f3f24ba3c96c1be21cdf.jpg
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/WareHouse/GreedySnakeGame_THUNLP_20231008212648/requirements.txt
+  detection_source: WareHouse/GreedySnakeGame_THUNLP_20231008212648/requirements.txt
+  last_updated_by: Stephen Chou
+  last_updated_on: 2023-10-14 06:50:48.000000000 Z
+- name: Werkzeug
+  description: The comprehensive WSGI web application library
+  package_url: https://pypi.org/project/Werkzeug
+  version: 2.3.6
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19890/default_87fc2af3f2409064833512bb6fc5b04443a2e6aa.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+  vulnerabilities:
+  - name: Werkzeug debugger vulnerable to remote execution when interacting with attacker
+      controlled domain
+    cve_id: CVE-2024-34069
+    cve_url: https://github.com/advisories/GHSA-2g68-c3qc-8985
+    detected_date: May 7
+    severity: high
+    first_patched: 3.0.3
+- name: PyPDF2
+  description: PDF toolkit
+  package_url: https://pypi.org/project/PyPDF2
+  version: 1.26.0
+  license: Other
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20065/default_bb49fb0188726b8922387d8bb6e9b2cd0c3c0ea9.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/WareHouse/BookBreeze_THUNLP_20230825072339/requirements.txt
+  detection_source: WareHouse/BookBreeze_THUNLP_20230825072339/requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+  vulnerabilities:
+  - name: PyPDF2 quadratic runtime with malformed PDF missing xref marker
+    cve_id: CVE-2023-36810
+    cve_url: https://github.com/advisories/GHSA-jrm6-h9cq-8gqw
+    detected_date: Jul 1
+    severity: moderate
+    first_patched: 1.27.9
+  - name: Manipulated inline images can cause Infinite Loop in PyPDF2
+    cve_id: CVE-2022-24859
+    cve_url: https://github.com/advisories/GHSA-xcjx-m2pj-8g79
+    detected_date: Apr 27
+    severity: moderate
+    first_patched: 1.27.5
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  version: 2.25.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/WareHouse/WarmHeart_ModelBest1024_20231026180801/requirements.txt
+  detection_source: WareHouse/WarmHeart_ModelBest1024_20231026180801/requirements.txt
+  last_updated_by: liuxiaoming
+  last_updated_on: 2023-10-26 10:53:26.000000000 Z
+  vulnerabilities:
+  - name: Requests `Session` object does not verify requests after making first request
+      with verify=False
+    cve_id: CVE-2024-35195
+    cve_url: https://github.com/advisories/GHSA-9wx4-h78v-vm56
+    detected_date: May 21
+    severity: moderate
+    first_patched: 2.32.0
+  - name: Unintended leak of Proxy-Authorization header in requests
+    cve_id: CVE-2023-32681
+    cve_url: https://github.com/advisories/GHSA-j8r2-6x86-q33q
+    detected_date: May 23
+    severity: moderate
+    first_patched: 2.31.0
+- name: Flask
+  description: A simple framework for building complex web applications
+  package_url: https://pypi.org/project/Flask
+  version: 2.3.2
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19834/default_58dbe7b4d7ec447b62773209af0f9a31bbabf5bd.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+- name: Flask-SocketIO
+  description: Socket.IO integration for Flask applications
+  package_url: https://pypi.org/project/Flask-SocketIO
+  version: 5.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20375/default_86c41789cbd5dc6b872b122419740f58f5d2f18a.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+- name: Markdown
+  description: Python implementation of Markdown
+  package_url: https://pypi.org/project/Markdown
+  version: 3.4.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19908/default_67f813d4aac73d024261bcfded6ef2b918e384a0.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-10-26 02:57:21.000000000 Z
+- name: bs4
+  description: Dummy package for Beautiful Soup
+  package_url: https://pypi.org/project/bs4
+  version: 0.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19906/default_2aeed05332f0410b54817405c7e8e202a7e763cf.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/WareHouse/WarmHeart_ModelBest1024_20231026180801/requirements.txt
+  detection_source: WareHouse/WarmHeart_ModelBest1024_20231026180801/requirements.txt
+  last_updated_by: liuxiaoming
+  last_updated_on: 2023-10-26 10:53:26.000000000 Z
+- name: colorama
+  description: Cross-platform colored terminal text
+  package_url: https://pypi.org/project/colorama
+  version: 0.4.6
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19845/default_accee5d2b8ed75c2245f13504daf75b1cbc8cc9f.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+- name: importlib-metadata
+  description: Read metadata from Python packages
+  package_url: https://pypi.org/project/importlib-metadata
+  version: 6.8.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20000/default_7c419d5d5f0cfad7886b95266eae7ba305cedacf.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+- name: keyboard
+  description: Hook and simulate keyboard events on Windows and Linux
+  package_url: https://pypi.org/project/keyboard
+  version: 0.13.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/WareHouse/Typing_THUNLP_20230824105537/requirements.txt
+  detection_source: WareHouse/Typing_THUNLP_20230824105537/requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+- name: openai
+  description: The official Python library for the openai API
+  package_url: https://pypi.org/project/openai
+  version: 0.27.8
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/requirements.txt
+  detection_source: WareHouse/FAIR_ENOUGH_ModelBest1024_20231026000126/requirements.txt
+  last_updated_by: whh8654
+  last_updated_on: 2023-10-26 07:28:40.000000000 Z
+- name: opencv-python
+  description: Wrapper package for OpenCV python bindings
+  package_url: https://pypi.org/project/opencv-python
+  version: 4.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/WareHouse/videoplayer_THUNLP_20230824233151/requirements.txt
+  detection_source: WareHouse/videoplayer_THUNLP_20230824233151/requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+- name: pandas
+  description: Powerful data structures for data analysis
+  package_url: https://pypi.org/project/pandas
+  version: 1.1.4
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19837/default_85689b353a3a9409328e253ea28d859d29151e0c.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/WareHouse/MoneyCtrl_THUNLP_20230825093546/requirements.txt
+  detection_source: WareHouse/MoneyCtrl_THUNLP_20230825093546/requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+- name: qrcode
+  description: QR Code image generator
+  package_url: https://pypi.org/project/qrcode
+  version: '7.3'
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20148/default_29fd040eb57820a7b7a415b9eba1bba73c05d9c8.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/WareHouse/QRCodeGenerator_THUNLP_20231015214731/requirements.txt
+  detection_source: WareHouse/QRCodeGenerator_THUNLP_20231015214731/requirements.txt
+  last_updated_by: YingMing Zhou
+  last_updated_on: 2023-10-16 02:34:54.000000000 Z
+- name: regex
+  description: Alternative regular expression module, to replace re
+  package_url: https://pypi.org/project/regex
+  version: 2023.6.3
+  license: Python-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19923/default_c8be5290cb8d8a8b578535a2c6475d1057ff4ea4.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+- name: schedule
+  description: Job scheduling for humans
+  package_url: https://pypi.org/project/schedule
+  version: 1.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20213/default_91afeaad6f5d17a2b513346f3f744a53cbd8a9ad.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/WareHouse/WarmHeart_ModelBest1024_20231026180801/requirements.txt
+  detection_source: WareHouse/WarmHeart_ModelBest1024_20231026180801/requirements.txt
+  last_updated_by: liuxiaoming
+  last_updated_on: 2023-10-26 10:53:26.000000000 Z
+- name: tenacity
+  description: Retry code until it succeeds
+  package_url: https://pypi.org/project/tenacity
+  version: 8.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20027/default_fd02050783f95269bfcc5c4d11f1c75dd423cd1d.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+- name: virtualenv
+  description: Virtual Python Environment builder
+  package_url: https://pypi.org/project/virtualenv
+  version: 20.23.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19970/default_1c8812e05cf754e8f654b8d86b3f025827f5bfb6.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: thinkwee
+  last_updated_on: 2023-09-04 11:24:28.000000000 Z
+- name: wordcloud
+  description: A little word cloud generator
+  package_url: https://pypi.org/project/wordcloud
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/Huntemall/ChatDev-400/blob/dev/WareHouse/WordCloud_THUNLP_20231015215721/requirements.txt
+  detection_source: WareHouse/WordCloud_THUNLP_20231015215721/requirements.txt
+  last_updated_by: YingMing Zhou
+  last_updated_on: 2023-10-16 02:35:32.000000000 Z
